@@ -1,0 +1,2051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+	<set>
+	<name>DCFN</name>
+	<longname>Daily Commanders Flips New</longname>
+	<settype>Custom</settype>
+	<releasedate>2020-06-11</releasedate>
+	</set>
+  ...
+  </sets>
+  <cards>
+		<card>
+            <name>Saproling</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Saproling</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/iko/en_0grsvGZ0uD.png">C20</set>
+			<reverse-related count="1">Maruk the Bloodstained</reverse-related>
+			<reverse-related count="1">Efkara the Ritualdancer</reverse-related>
+			<reverse-related count="1">Detrimitus the Sprouthulk</reverse-related>
+			<reverse-related>Mursus Arbor Shepherd</reverse-related>
+			<reverse-related>Rel Bioalchemist</reverse-related>
+			<token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+			<name>Sliver</name>
+            <prop>
+                <type>Token Creature — Sliver</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/images/magic/daily/arcana/0001_MTGM15_TOK_EN%20copy.png">M15</set>
+            <reverse-related>The Rathi Queen</reverse-related>
+			<token>1</token>
+            <tablerow>2</tablerow>
+		</card>
+			
+		<card>
+            <name>Elemental</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+           
+           <set picURL="https://img.scryfall.com/cards/large/front/b/7/b7047838-ac9f-4ca1-9827-73d87098124f.jpg">ORI</set>
+            <reverse-related>Nissa Soul of Growth</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+            <name>The Hero</name>
+			<text> This creature is all creature types</text>
+            <prop>
+                <colors>WUBRG</colors>
+                <type>Token Creature — Avatar changeling</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>5/5</pt>
+            </prop>
+            <set picURLSt="" picURLHq="" picURL="/The Hero.full.jpg">DCFN</set>
+            <reverse-related>Miyu Master Storyteller</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		<card>
+            <name>Myla Bird</name>
+            <text>Flying</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Bird</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/2</pt>
+            </prop>
+            <set picURL="/Myla Bird.full.jpg">DCFN</set>
+            <reverse-related count="1">Myla Storm Sage</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+            <name>Palle Elemental</name>
+			<text>This creature gets +1/+1 for each land card in your graveyard.</text>            <prop>
+                <colors>RG</colors>
+                <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/0</pt>
+            </prop>
+            <set picURL="/Palle Elemental.full.jpg">DCFN</set>
+            <reverse-related>Palle Heart of Eruptions</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		<card>
+            <name>Kobolds of Kher Keep (Token)</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Kobold</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2018/a25/en_Cthmwau2Ha.png">A25</set>
+            <reverse-related>Kher Keep</reverse-related>
+            <reverse-related count="1">Prossh Kher Overlord</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		<card>
+            <name>Wolf</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Wolf</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_ahsZMx1Bgw.png">THB</set>
+            <set picURL="https://media.wizards.com/2019/m20/en_yGHIfVnYBa.png">M20</set>
+            <set picURL="https://media.wizards.com/2019/war/en_vc9PEBCee6.png">WAR</set>
+            <set picURL="https://media.wizards.com/2018/a25/en_YMeT9fmnKH.png">A25</set>
+            <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_BW6wmU7cbv.png">SOI</set>
+            <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_IWGaI59e15.png">C15</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/7/b/7bdb3368-fee3-4795-a23f-c97555ee7475.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/d/c/dce952a6-a5d2-4fb9-b66b-1852ab698ac6.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/a/4/a4cd989d-e274-4058-876f-3c20f28def0d.jpg">CNS</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/8/9/8958b650-c831-4499-813b-5699954ab2f0.jpg">BNG</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/3/0/309f1bd4-78af-4722-9d45-b5f40b001570.jpg">M14</set>
+            <set picURL="https://img.scryfall.com/cards/large/back/3/a/3a98c51f-c55c-4bd9-853b-65b8bad5a29f.jpg">FNM</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/a/5/a53f8031-aaa8-424c-929a-5478538a8cc6.jpg">ISD</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/5/c/5cde8b3e-c006-41fd-a926-8746c794e149.jpg">SOM</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/d/c/dcc9e4b4-c0fb-4627-92cf-69544e0c875d.jpg">ZEN</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/0/f/0f63920d-18a0-4267-bb4e-a972ba86067d.jpg">M10</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/9/c/9c138bf9-8be6-4f1a-a82c-a84938ab84f5.jpg">SHM</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/0/2/02a80dc2-0811-4df0-95f1-dd80ce9e24de.jpg">LRW</set>
+            <reverse-related>Tovolar of Mondronen</reverse-related>
+			<reverse-related>Lunara Nights Majesty</reverse-related>
+			<reverse-related>Arlinn the Worldhowler</reverse-related>
+           
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		<card>
+		<name>Ooze</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Ooze</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_fzNmUE7vkf.png">MM3</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/d/4/d49e91df-0647-4c9f-9c3e-fb8c77c4886c.jpg">ROE</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/3/9/39a4b6d1-c5f5-4a2d-a00c-97f6395c941b.jpg">ALA</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/a/6/a686e51d-e8c3-4ed6-8357-c3d38d56dd09.jpg">RTR</set>
+            <reverse-related count="x">Gelatinous Genesis</reverse-related>
+            <reverse-related>Miming Slime</reverse-related>
+            <reverse-related>Mystic Genesis</reverse-related>
+            <reverse-related>Ooze Flux</reverse-related>
+            <reverse-related>Ooze Garden</reverse-related>
+            <reverse-related>Slime Molding</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Slimern Ooze </name>
+            
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Ooze</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2018/rna/en_muk9bcLe4j.png">ISD</set>
+            <reverse-related>Slimern Gluttonous Glob</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		<card>
+            <name>Arel Beast</name>
+            <prop>
+                <colors>RGW</colors>
+                <type>Token Creature — Beast</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>5/4</pt>
+            </prop>
+           
+            <set picURL="/Arel Beast.full.jpg">DCFN</set>
+            <reverse-related>Arel Godtracker</reverse-related>
+           
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		<card>
+            <name>The Monarch</name>
+            <text>At the beginning of your end step, draw a card.
+Whenever a creature deals combat damage to you, its controller becomes the monarch.</text>
+            <prop>
+                <type>State</type>
+                <maintype>State</maintype>
+            </prop>
+            <set picURL="https://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_OFPgMTjwcu.png">CN2</set>
+            <reverse-related>Canal Courier</reverse-related>
+            <reverse-related>Crown-Hunter Hireling</reverse-related>
+            <reverse-related>Custodi Lich</reverse-related>
+            <reverse-related>Entourage of Trest</reverse-related>
+            <reverse-related>Garrulous Sycophant</reverse-related>
+            <reverse-related>Keeper of Keys</reverse-related>
+            <reverse-related>Knights of the Black Rose</reverse-related>
+            <reverse-related>Marchesa's Decree</reverse-related>
+            <reverse-related>Palace Jailer</reverse-related>
+            <reverse-related>Palace Sentinels</reverse-related>
+            <reverse-related>Protector of the Crown</reverse-related>
+            <reverse-related>Queen Marchesa</reverse-related>
+            <reverse-related>Regal Behemoth</reverse-related>
+            <reverse-related>Skyline Despot</reverse-related>
+            <reverse-related>Thorn of the Black Rose</reverse-related>
+            <reverse-related>Throne of the High City</reverse-related>
+            <reverse-related>Throne Warden</reverse-related>
+			  <reverse-related>Krea Throneseeker</reverse-related>
+			  <reverse-related>Kadros Throne-Crazed</reverse-related>
+			  <reverse-related>Bowser King of the Koopas</reverse-related>
+			 <reverse-related>Lein Who Refused to Rule</reverse-related>
+			<reverse-related>Bovis Labyrinthine Lord</reverse-related>
+			<reverse-related>Chancellor Palpatine</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+		        <card>
+            <name>Food</name>
+            <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Token Artifact — Food</type>
+                <maintype>Artifact</maintype>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_Il49X0ZN05.png">ELD</set>
+            <set picURL="https://media.wizards.com/2019/eld/en_8MSslzedLY.png">ELD</set>
+            <set picURL="https://media.wizards.com/2019/eld/en_zSLS0TURcJ.png">ELD</set>
+            <set picURL="https://media.wizards.com/2019/eld/en_4OwNtoBgbf.png">ELD</set>
+            <reverse-related>Bake into a Pie</reverse-related>
+            <reverse-related>Bartered Cow</reverse-related>
+            <reverse-related>Curious Pair // Treats to Share</reverse-related>
+            <reverse-related count="3">Feasting Troll King</reverse-related>
+            <reverse-related>Fell the Pheasant</reverse-related>
+            <reverse-related>Fierce Witchstalker</reverse-related>
+            <reverse-related>Foreboding Fruit</reverse-related>
+            <reverse-related>Fortifying Provisions</reverse-related>
+            <reverse-related exclude="exclude" count="3">Giant Opportunity</reverse-related>
+            <reverse-related>Giant's Skewer</reverse-related>
+            <reverse-related>Gilded Goose</reverse-related>
+            <reverse-related>Gingerbread Cabin</reverse-related>
+            <reverse-related count="x=1">Gluttonous Troll</reverse-related>
+            <reverse-related>Oko, Thief of Crowns</reverse-related>
+            <reverse-related>Savvy Hunter</reverse-related>
+            <reverse-related count="3">Taste of Death</reverse-related>
+            <reverse-related>Tempting Witch</reverse-related>
+            <reverse-related>Trail of Crumbs</reverse-related>
+            <reverse-related>Turn into a Pumpkin</reverse-related>
+            <reverse-related count="x=1">Witch's Oven</reverse-related>
+			<reverse-related count="x=1">Fenrus Hungering Fiend</reverse-related>
+            <reverse-related>Dragorf</reverse-related>
+			<reverse-related>Galewa of Neutral Ground</reverse-related>
+			<reverse-related>Eugene Krabs</reverse-related>
+			<reverse-related>It That Gobbles</reverse-related>
+			<token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+		 <card>
+            <name>Survivor</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Survivor</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2018/c18/en_PHvsYoiHLn.png">C18</set>
+            <reverse-related count="x">Varchild's War-Riders</reverse-related>
+            <reverse-related count="x=3">Varchild, Betrayer of Kjeldor</reverse-related>
+			<reverse-related>Ahulsis Caravans Bane</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		<card>
+            <name>Icarax Insect</name>
+          
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Insect</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://img.scryfall.com/cards/large/front/2/4/242c381e-df58-4365-a68c-add1127a83cc.jpg">SOM</set>
+            
+            <reverse-related>Icarax Kraul Rogue</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+  <card>
+            <name>Krea Elemental</name>
+            <prop>
+                <colors>GU</colors>
+                <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+           
+            <set picURL="/Krea Elemental.full.jpg">LRW</set>
+            <reverse-related>Krea Merewood Mystic</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		<card>
+  <name>Karakef, The Reclaimer, embalmed</name>
+  <text> {T}: Exile target card from a graveyard with a tomb counter on it.
+  Activate this ability only if Karakef, The Reclaimer isn't a token.
+  If Karakef, the Reclaimer is a token, you may cast cards
+  in exile with Tomb counters on them, and you may spend mana as though 
+  it were mana of any type to cast them.
+  Embalm {2}{W}{U}{B}.
+  
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Human Noble</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost></manacost>
+    <cmc></cmc>
+    <colors>W</colors>
+    <coloridentity>W</coloridentity>
+    <pt>1/4</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/FLygLVj.png">DCFN</set>
+  <related></related>
+  <reverse-related>Karakef the Reclaimer</reverse-related>
+<token>1</token>
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+            <name>Goblin</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Goblin</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_ZN8J4ERaoN.png">MH1</set>
+            <set picURL="https://media.wizards.com/2019/war/en_aQgSh0czs9.png">WAR</set>
+            <set picURL="https://media.wizards.com/2018/rna/en_NaVWfo0f7A.png">RNA</set>
+            <set picURL="https://media.wizards.com/2018/grn/en_yjjrSUmn9t.png">GRN</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/4/f/4f736760-60d5-412d-9877-753eb7b5f926.jpg">M19</set>
+            <set picURL="https://media.wizards.com/2018/dom/en_EZdDBcrqwr.png">DOM</set>
+            <set picURL="https://media.wizards.com/2018/a25/en_Sqgppqpxj0.png">A25</set>
+            <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_lT7oIjqrTl.png">MM3</set>
+            <set picURL="https://media.wizards.com/2016/adhfianalodifdj2_EMA/en_aYWcAETlLv.png">EMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/b/2/b21498f5-9098-4e50-b1d3-bd64cba1372a.jpg">ORI</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/e/5/e55d42ad-63b1-4468-8da0-c245db4d0ae3.jpg">DTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/7/4/74502af2-3428-4003-9ee5-418af848af2f.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/e/d/ed418a8b-f158-492d-a323-6265b3175292.jpg">KTK</set>
+            <set picURL="https://media.wizards.com/images/magic/daily/arcana/0008_MTGM15_TOK_EN%20copy.png">M15</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/2/b/2b1ac66f-4b21-4acf-b51b-41c9d241d971.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/f/e/feeae905-e456-4598-b3de-b339397983bf.jpg">NPH</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/b/3/b37f4fdb-1533-4c38-a654-f715fbef6abf.jpg">SOM</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/4/b/4bca62e7-8fb5-45ff-ac9a-17db8095e76c.jpg">DDG</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/0/e/0e67efea-8a80-42ec-8e77-07d387d933d4.jpg">M13</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/3/f/3f8cdaea-32da-4c18-bcd0-18bbbda54afb.jpg">M10</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/2/b/2b2b01b8-3dcb-4eab-9402-0db343543c38.jpg">ALA</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/f/f/ff1df646-52f5-4292-9fd5-5b8393f63931.jpg">EVG</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/e/9/e9577d3c-ee19-4b53-adac-b304287a066f.jpg">10E</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/5/7/577c2e32-deb6-40d9-a050-c2acb5bfc05f.jpg">RTR</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/0/6/062043de-a199-408d-8d77-09531ad38b16.jpg">LGN</set>
+            <reverse-related count="2">Beetleback Chief</reverse-related>
+            <reverse-related>Chancellor of the Forge</reverse-related>
+            <reverse-related count="x">Chancellor of the Forge</reverse-related>
+            <reverse-related count="2">Dragon Fodder</reverse-related>
+            <reverse-related count="2">Empty the Warrens</reverse-related>
+            <reverse-related>Goblin Assault</reverse-related>
+            <reverse-related count="x=2">Goblin Gathering</reverse-related>
+            <reverse-related count="2">Goblin Marshal</reverse-related>
+            <reverse-related count="x">Goblin Offensive</reverse-related>
+            <reverse-related>Goblin Rabblemaster</reverse-related>
+            <reverse-related count="4">Goblin Rally</reverse-related>
+            <reverse-related count="3">Goblin Warrens</reverse-related>
+            <reverse-related count="3">Goblin War Party</reverse-related>
+            <reverse-related>Goblinslide</reverse-related>
+            <reverse-related count="3">Hordeling Outburst</reverse-related>
+            <reverse-related count="5">Hunted Phantasm</reverse-related>
+            <reverse-related count="2">Ib Halfheart, Goblin Tactician</reverse-related>
+            <reverse-related count="2">Jund</reverse-related>
+            <reverse-related count="2">Kathari Bomber</reverse-related>
+            <reverse-related count="2">Krenko's Command</reverse-related>
+            <reverse-related count="x">Krenko, Mob Boss</reverse-related>
+            <reverse-related count="x">Krenko, Tin Street Kingpin</reverse-related>
+            <reverse-related count="3">Kuldotha Rebirth</reverse-related>
+            <reverse-related>Legion Warboss</reverse-related>
+            <reverse-related>Mardu Ascendancy</reverse-related>
+            <reverse-related count="2">Mogg Alarm</reverse-related>
+            <reverse-related count="x=2">Mogg Infestation</reverse-related>
+            <reverse-related>Mogg War Marshal</reverse-related>
+            <reverse-related count="2">Pashalik Mons</reverse-related>
+            <reverse-related count="3">Ponyback Brigade</reverse-related>
+            <reverse-related count="3">Siege-Gang Commander</reverse-related>
+            <reverse-related count="2">Sling-Gang Lieutenant</reverse-related>
+            <reverse-related>Survey the Wreckage</reverse-related>
+            <reverse-related count="x">Warbreak Trumpeter</reverse-related>
+            <reverse-related count="x">Box of Free-Range Goblins</reverse-related>
+            <reverse-related count="x">Gift Horse</reverse-related>
+            <reverse-related>Goblin Instigator</reverse-related>
+			<reverse-related count="x">Grek Horderaiser</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+  <card>
+            <name>Egg</name>
+            <text>Defender</text>
+            <prop>
+                <colors>R</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Egg</type>
+                <maintype>Creature</maintype>
+                <pt>0/2</pt>
+            </prop>
+            <set picURL="/Ikarae Egg.full.jpg">DFCN</set>
+            <reverse-related>Ikarae the First Firebird</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		<card>
+            <name>Myr</name>
+			<text>{T}, Sacrifice this creature: Put a charge counter on
+			target artifact.</text>
+            <prop>
+                <type>Token Artifact Creature — Myr</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+         
+            <set picURL="/Forgemaster Myr.full.jpg">DFCN</set>
+            
+            <reverse-related>The Proxy Forgemaster</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		<card>
+            <name>Rhino</name>
+            <text>Trample</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Rhino</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/c19/en_EAxHlE6QOY.png">C19</set>
+            <set picURL="https://media.wizards.com/2019/mh1/en_i0EAXzpVzO.png">MH1</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/1/3/1331008a-ae86-4640-b823-a73be766ac16.jpg">RTR</set>
+            <reverse-related count="2">Crashing Footfalls</reverse-related>
+            <reverse-related>Ghired, Conclave Exile</reverse-related>
+            <reverse-related>Horncaller's Chant</reverse-related>
+            <reverse-related>Trostani's Summoner</reverse-related>
+			 <reverse-related>Therious Dawnhorn</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		        <card>
+            <name>Zombie</name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Zombie</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/iko/en_4MgEbcrpn4.png">C20</set>
+            <set pickURL="https://media.wizards.com/2019/thb/en_zh0TosPHeW.png">THB</set>
+            <set picURL="https://media.wizards.com/2019/c19/en_RcvmrIA4co.png">C19</set>
+            <set picURL="https://media.wizards.com/2019/c19/en_Ryxjzpphjb.png">C19</set>
+            <set picURL="https://media.wizards.com/2019/m20/en_lb4QSh11Zp.png">M20</set>
+            <set picURL="https://media.wizards.com/2019/mh1/en_QGq3XFvF38.png">MH1</set>
+            <set picURL="https://media.wizards.com/2019/war/en_kpTtzDM6jX.png">WAR</set>
+            <set picURL="https://media.wizards.com/2018/rna/en_FV4qTNvNWC.png">RNA</set>
+            <set picURL="https://media.wizards.com/2018/c18/en_NlO9xMIqTz.png">C18</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/e/d/ed08aac1-9e82-4049-9926-618f15222024.jpg">M19</set>
+            <set picURL="https://media.wizards.com/2017/ust/en_PdePJoDtFG.png">UST</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/d/2/d2bd70ba-91a6-4944-92a1-89d561355c25.jpg">C17</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/b/5/b5bd6905-79be-4d2c-a343-f6e6a181b3e6.jpg">AKH</set>
+            <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_mdCldta8UM.png">MM3</set>
+            <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/KuzDDwCJi3_EN.png">C16</set>
+            <set picURL="https://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_jiQZPry4Js.png">CN2</set>
+            <set picURL="https://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_agGWKXppaH.png">EMN</set>
+            <set picURL="https://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_vpvtSxqjtz.png">EMN</set>
+            <set picURL="https://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_bgb9weEZA4.png">EMN</set>
+            <set picURL="https://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_SwNMotyu8E.png">EMN</set>
+            <set picURL="https://media.wizards.com/2016/adhfianalodifdj2_EMA/en_bsHDG8OapS.png">EMA</set>
+            <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Hys6V2Lnum.png">SOI</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/e/0/e0bde78b-98d1-4864-899b-fc2f945ce06b.jpg">OGW</set>
+            <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_jVoQGXYWRq.png">C15</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/e/5/e5ccae95-95c2-4d11-aa68-5c80ecf90fd2.jpg">ORI</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/e/4/e4de662d-374d-4dd7-908f-bcde7bdc5ae9.jpg">DTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/0/3/0397aa00-6d82-47d9-bc30-072b722c8b71.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/b/a/ba7da3d0-2471-48ab-8e7c-af8046d9e0be.jpg">KTK</set>
+            <set picURL="https://media.wizards.com/images/magic/daily/arcana/0006_MTGM15_TOK_EN%20copy.png">M15</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/2/2/22aec1b4-33ec-4cf1-9f41-3e0468a679cd.jpg">CNS</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/0/7/07d82a8d-4c57-401f-92c3-8fd9ba20174a.jpg">M14</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/7/3/738dce42-9852-4ced-8e9e-4639fad8b79f.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/b/8/b877c19d-6022-4377-92e7-4511e24eb98e.jpg">AVR</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/c/9/c9a85357-3cad-4a1e-805b-ea4146d8b05f.jpg">ISD</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/8/d/8db7e3f4-0153-425a-8edc-2747bbb89638.jpg">M12</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/4/6/46769d11-a7ae-43ac-8c00-e1681955949b.jpg">MBS</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/6/b/6b365694-e056-48b9-aae3-599180c0c29c.jpg">M11</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/1/9/1966d7e6-cd4a-47ff-bc3e-f8e0db8a3439.jpg">M13</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/c/d/cd51a6b5-1165-4df6-a30d-d46c729633f7.jpg">M10</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/b/a/ba9b6612-5372-4e6f-841f-20009f71a736.jpg">ALA</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/8/a/8a73e348-5bf1-4465-978b-3f31408bade9.jpg">10E</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/6/5/657fa00d-ddb5-49e6-a01e-82038cccfe30.jpg">ODY</set>
+            <reverse-related>Aphemia, the Cacophony</reverse-related>
+            <reverse-related>Archdemon of Unx</reverse-related>
+            <reverse-related count="13">Army of the Damned</reverse-related>
+            <reverse-related>Assemble the Rank and Vile</reverse-related>
+            <reverse-related count="x">Awaken the Erstwhile</reverse-related>
+            <reverse-related>Boneclad Necromancer</reverse-related>
+            <reverse-related>Bone Miser</reverse-related>
+            <reverse-related>Bridge from Below</reverse-related>
+            <reverse-related count="x=5">Captive Audience</reverse-related>
+            <reverse-related>Cellar Door</reverse-related>
+            <reverse-related>Cemetery Reaper</reverse-related>
+            <reverse-related>Cradle of the Accursed</reverse-related>
+            <reverse-related>Cryptbreaker</reverse-related>
+            <reverse-related>Curse of Disturbance</reverse-related>
+            <reverse-related>Curse of Shallow Graves</reverse-related>
+            <reverse-related count="x">Dark Salvation</reverse-related>
+            <reverse-related>Diregraf Colossus</reverse-related>
+            <reverse-related>Doomed Dissenter</reverse-related>
+            <reverse-related>Drana's Chosen</reverse-related>
+            <reverse-related count="x">Dread Summons</reverse-related>
+            <reverse-related>Drunau Corpse Trawler</reverse-related>
+            <reverse-related>Dunes of the Dead</reverse-related>
+            <reverse-related count="x">Empty the Pits</reverse-related>
+            <reverse-related count="x">Endless Ranks of the Dead</reverse-related>
+            <reverse-related>Feast or Famine</reverse-related>
+            <reverse-related>Field of the Dead</reverse-related>
+            <reverse-related count="3">From Under the Floorboards</reverse-related>
+            <reverse-related count="x" exclude="exclude">From Under the Floorboards</reverse-related>
+            <reverse-related count="x">Ghoulcaller Gisa</reverse-related>
+            <reverse-related>Ghoulcaller's Accomplice</reverse-related>
+            <reverse-related count="2">Gisa's Bidding</reverse-related>
+            <reverse-related>Graf Harvest</reverse-related>
+            <reverse-related count="2">Grave Titan</reverse-related>
+            <reverse-related>Grixis Slavedriver</reverse-related>
+            <reverse-related>Havengul Runebinder</reverse-related>
+            <reverse-related count="2">Hour of Promise</reverse-related>
+            <reverse-related>Kalitas, Traitor of Ghet</reverse-related>
+            <reverse-related>Lair of the Ashen Idol</reverse-related>
+            <reverse-related count="2">Liliana's Mastery</reverse-related>
+            <reverse-related>Liliana's Reaver</reverse-related>
+            <reverse-related>Liliana, Death's Majesty</reverse-related>
+            <reverse-related>Liliana, Dreadhorde General</reverse-related>
+            <reverse-related>Liliana, Heretical Healer</reverse-related>
+            <reverse-related count="x">Liliana, the Last Hope</reverse-related>
+            <reverse-related count="2">Maalfeld Twins</reverse-related>
+            <reverse-related count="x">Midnight Ritual</reverse-related>
+            <reverse-related count="2">Moan of the Unhallowed</reverse-related>
+            <reverse-related count="x">Necromancer's Covenant</reverse-related>
+            <reverse-related>Necromancer's Stockpile</reverse-related>
+            <reverse-related>Necromaster Dragon</reverse-related>
+            <reverse-related>Nested Ghoul</reverse-related>
+            <reverse-related>Never // Return</reverse-related>
+            <reverse-related>Noosegraf Mob</reverse-related>
+            <reverse-related>Null Caller</reverse-related>
+            <reverse-related>Oath of Liliana</reverse-related>
+            <reverse-related>Overseer of the Damned</reverse-related>
+            <reverse-related count="2">Rakshasa Gravecaller</reverse-related>
+            <reverse-related>Rank Officer</reverse-related>
+            <reverse-related>Reap the Seagraf</reverse-related>
+            <reverse-related count="x">Rise from the Tides</reverse-related>
+            <reverse-related>Rotlung Reanimator</reverse-related>
+            <reverse-related count="x">Rotted Ones, Lay Siege</reverse-related>
+            <reverse-related>Sarcomancy</reverse-related>
+            <reverse-related>Shamble Back</reverse-related>
+            <reverse-related>Sidisi, Brood Tyrant</reverse-related>
+            <reverse-related count="3">Stir the Sands</reverse-related>
+            <reverse-related>Stir the Sands</reverse-related>
+            <reverse-related count="x">Syphon Flesh</reverse-related>
+            <reverse-related>The Fourth Sphere</reverse-related>
+            <reverse-related>Tymaret Calls the Dead</reverse-related>
+            <reverse-related>Undead Alchemist</reverse-related>
+            <reverse-related count="x">Undead Servant</reverse-related>
+            <reverse-related>Unscythe, Killer of Kings</reverse-related>
+            <reverse-related>Vile Rebirth</reverse-related>
+            <reverse-related>Wakedancer</reverse-related>
+            <reverse-related>Waste Not</reverse-related>
+            <reverse-related>Xathrid Necromancer</reverse-related>
+            <reverse-related>Zombie Infestation</reverse-related>
+            <reverse-related>Graveyard Marshal</reverse-related>
+            <reverse-related>Open the Graves</reverse-related>
+            <reverse-related>Varina, Lich Queen</reverse-related>
+			<reverse-related>Suchus the Hollowmaw</reverse-related>
+			<reverse-related>Ubrec King of the Beyond</reverse-related>
+			<reverse-related>Gisa Beloved Sister</reverse-related>
+			<reverse-related>Metrus the Scarwright</reverse-related>
+			<reverse-related>Techus Tombseeker</reverse-related>
+			<reverse-related>Ayla Populist Jinx</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+            <name>Energy Reserve</name>
+            <prop>
+                <type>Counter</type>
+                <maintype>Counter</maintype>
+            </prop>
+            <set picURL="https://i.imgur.com/D4xLMxC.png">KLD</set>
+            <reverse-related exclude="exclude">Aether Chaser</reverse-related>
+            <reverse-related exclude="exclude">Aether Herder</reverse-related>
+            <reverse-related exclude="exclude">Aether Hub</reverse-related>
+            <reverse-related exclude="exclude">Aether Inspector</reverse-related>
+            <reverse-related exclude="exclude">Aether Meltdown</reverse-related>
+            <reverse-related exclude="exclude">Aether Poisoner</reverse-related>
+            <reverse-related exclude="exclude">Aether Swooper</reverse-related>
+            <reverse-related exclude="exclude">Aether Theorist</reverse-related>
+            <reverse-related exclude="exclude">Aethergeode Miner</reverse-related>
+            <reverse-related exclude="exclude">Aethersphere Harvester</reverse-related>
+            <reverse-related exclude="exclude">Aethersquall Ancient</reverse-related>
+            <reverse-related exclude="exclude">Aetherstorm Roc</reverse-related>
+            <reverse-related exclude="exclude">Aetherstream Leopard</reverse-related>
+            <reverse-related exclude="exclude">Aethertide Whale</reverse-related>
+            <reverse-related exclude="exclude">Aethertorch Renegade</reverse-related>
+            <reverse-related exclude="exclude">Aetherwind Basker</reverse-related>
+            <reverse-related exclude="exclude">Aetherworks Marvel</reverse-related>
+            <reverse-related exclude="exclude">Architect of the Untamed</reverse-related>
+            <reverse-related exclude="exclude">Attune with Aether</reverse-related>
+            <reverse-related exclude="exclude">Bristling Hydra</reverse-related>
+            <reverse-related exclude="exclude">Confiscation Coup</reverse-related>
+            <reverse-related exclude="exclude">Consul's Shieldguard</reverse-related>
+            <reverse-related exclude="exclude">Consulate Surveillance</reverse-related>
+            <reverse-related exclude="exclude">Consulate Turret</reverse-related>
+            <reverse-related exclude="exclude">Deadlock Trap</reverse-related>
+            <reverse-related exclude="exclude">Decoction Module</reverse-related>
+            <reverse-related exclude="exclude">Demon of Dark Schemes</reverse-related>
+            <reverse-related exclude="exclude">Die Young</reverse-related>
+            <reverse-related exclude="exclude">Dynavolt Tower</reverse-related>
+            <reverse-related exclude="exclude">Eddytrail Hawk</reverse-related>
+            <reverse-related exclude="exclude">Electrostatic Pummeler</reverse-related>
+            <reverse-related exclude="exclude">Empyreal Voyager</reverse-related>
+            <reverse-related exclude="exclude">Era of Innovation</reverse-related>
+            <reverse-related exclude="exclude">Fabrication Module</reverse-related>
+            <reverse-related exclude="exclude">Glassblower's Puzzleknot</reverse-related>
+            <reverse-related exclude="exclude">Glimmer of Genius</reverse-related>
+            <reverse-related exclude="exclude">Glint-Sleeve Siphoner</reverse-related>
+            <reverse-related exclude="exclude">Gonti's Aether Heart</reverse-related>
+            <reverse-related exclude="exclude">Gonti's Machinations</reverse-related>
+            <reverse-related exclude="exclude">Greenbelt Rampager</reverse-related>
+            <reverse-related exclude="exclude">Harnessed Lightning</reverse-related>
+            <reverse-related exclude="exclude">Highspire Infusion</reverse-related>
+            <reverse-related exclude="exclude">Hightide Hermit</reverse-related>
+            <reverse-related exclude="exclude">Janjeet Sentry</reverse-related>
+            <reverse-related exclude="exclude">Lathnu Hellion</reverse-related>
+            <reverse-related exclude="exclude">Lightning Runner</reverse-related>
+            <reverse-related exclude="exclude">Live Fast</reverse-related>
+            <reverse-related exclude="exclude">Longtusk Cub</reverse-related>
+            <reverse-related exclude="exclude">Maulfist Doorbuster</reverse-related>
+            <reverse-related exclude="exclude">Minister of Inquiries</reverse-related>
+            <reverse-related exclude="exclude">Multiform Wonder</reverse-related>
+            <reverse-related exclude="exclude">Peema Aether-Seer</reverse-related>
+            <reverse-related exclude="exclude">Reservoir Walker</reverse-related>
+            <reverse-related exclude="exclude">Riparian Tiger</reverse-related>
+            <reverse-related exclude="exclude">Rogue Refiner</reverse-related>
+            <reverse-related exclude="exclude">Sage of Shaila's Claim</reverse-related>
+            <reverse-related exclude="exclude">Scrapper Champion</reverse-related>
+            <reverse-related exclude="exclude">Servant of the Conduit</reverse-related>
+            <reverse-related exclude="exclude">Shielded Aether Thief</reverse-related>
+            <reverse-related exclude="exclude">Shipwreck Moray</reverse-related>
+            <reverse-related exclude="exclude">Spontaneous Artist</reverse-related>
+            <reverse-related exclude="exclude">Territorial Gorger</reverse-related>
+            <reverse-related exclude="exclude">Thriving Grubs</reverse-related>
+            <reverse-related exclude="exclude">Thriving Ibex</reverse-related>
+            <reverse-related exclude="exclude">Thriving Rats</reverse-related>
+            <reverse-related exclude="exclude">Thriving Rhino</reverse-related>
+            <reverse-related exclude="exclude">Thriving Turtle</reverse-related>
+            <reverse-related exclude="exclude">Voltaic Brawler</reverse-related>
+            <reverse-related exclude="exclude">Whirler Virtuoso</reverse-related>
+            <reverse-related exclude="exclude">Woodweaver's Puzzleknot</reverse-related>
+            <reverse-related exclude="exclude">Schizza Aether Pioneer</reverse-related>
+			
+			<token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+		<card>
+            <name>Bat</name>
+            <text>Flying</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Bat</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://img.scryfall.com/cards/large/front/f/1/f1349fcb-db31-4b1d-8063-e5c28b4472cc.jpg">M19</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/0/2/020c88d9-d058-4290-b0d7-b91754f91a22.jpg">C17</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/8/9/89d7ed94-564b-415c-b590-d89c972384a1.jpg">MMA</set>
+            <reverse-related count="2">Belfry Spirit</reverse-related>
+            <reverse-related count="2">Skeletal Vampire</reverse-related>
+            <reverse-related>Desecrated Tomb</reverse-related>
+            <reverse-related>Regal Bloodlord</reverse-related>
+			<reverse-related>Aclazotz God of the Night</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+   <card>
+            <name>Illusion</name>
+			<text> When this creature dies, sacrifice a tapped creature</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Illusion</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="/Shilgoth illusion.full.jpg">DFCN</set>
+            <reverse-related>Shilgoth Dreamhunter</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+            <name>Minotaur</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Minotaur</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/3</pt>
+            </prop>
+            <set picURL="https://img.scryfall.com/cards/large/front/5/d/5d2a3833-ab5b-4f84-b39c-d0eeb7b474d3.jpg">JOU</set>
+            <reverse-related count="1">Kane-Ra of the Hornhorde</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		<card>
+            <name>DFCN Wurm</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Wurm</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>5/5</pt>
+            </prop>
+           
+            <set picURL="https://img.scryfall.com/cards/large/front/3/6/366c01a7-6399-496b-a5a3-8be45475ce33.jpg">AKH</set>
+
+            <reverse-related>Eva of the Summoning Circle</reverse-related>
+            
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		<card>
+            <name>Treasure</name>
+            <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+            <prop>
+                <type>Token Artifact — Treasure</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/iko/en_JuQtxB6MmU.png">C20</set>
+            <set picURL="https://media.wizards.com/2019/c19/en_sNEBzx6V2p.png">C19</set>
+            <set picURL="https://media.wizards.com/2019/m20/en_kZwk2VjcE9.png">M20</set>
+            <set picURL="https://media.wizards.com/2018/rna/en_tgR7GbIWg8.png">RNA</set>
+            <set picURL="https://media.wizards.com/2017/xln/en_1x8JYIHKSF_b.png">XLN</set>
+            <set picURL="https://media.wizards.com/2017/xln/en_yQpDYPpsn4_b.png">XLN</set>
+            <set picURL="https://media.wizards.com/2017/xln/en_N4n6GAhvNw_b.png">XLN</set>
+            <set picURL="https://media.wizards.com/2017/xln/en_g59A1EKi9e_b.png">XLN</set>
+            <reverse-related>Brass's Bounty</reverse-related>
+            <reverse-related>Brazen Freebooter</reverse-related>
+            <reverse-related>Captain Lannery Storm</reverse-related>
+            <reverse-related count="2">Contract Killing</reverse-related>
+            <reverse-related>Deadeye Plunderers</reverse-related>
+            <reverse-related>Depths of Desire</reverse-related>
+            <reverse-related>Dire Fleet Hoarder</reverse-related>
+            <reverse-related count="x=0">Dockside Extortionist</reverse-related>
+            <reverse-related>Gleaming Barrier</reverse-related>
+            <reverse-related>Heartless Pillage</reverse-related>
+            <reverse-related>Hornswoggle</reverse-related>
+            <reverse-related count="2">Pirate's Pillage</reverse-related>
+            <reverse-related>Pirate's Prize</reverse-related>
+            <reverse-related>Pitiless Plunderer</reverse-related>
+            <reverse-related count="2">Prosperous Pirates</reverse-related>
+            <reverse-related>Prying Blade</reverse-related>
+            <reverse-related count="2">Rapacious Dragon</reverse-related>
+            <reverse-related>Revel in Riches</reverse-related>
+            <reverse-related count="2">Ruthless Knave</reverse-related>
+            <reverse-related>Sailor of Means</reverse-related>
+            <reverse-related>Shiny Impetus</reverse-related>
+            <reverse-related>Smothering Tithe</reverse-related>
+            <reverse-related count="x">Spell Swindle</reverse-related>
+            <reverse-related>Storm the Vault</reverse-related>
+            <reverse-related count="x">Surly Badgersaur</reverse-related>
+            <reverse-related count="3">Treasure Map</reverse-related>
+            <reverse-related>Trove of Temptation</reverse-related>
+            <reverse-related>Vraska, Relic Seeker</reverse-related>
+            <reverse-related count="2">Wanted Scoundrels</reverse-related>
+            <reverse-related>Wily Goblin</reverse-related>
+			<reverse-related>Eugene Krabs</reverse-related>
+			<reverse-related>Sidisi Khan Resurgent</reverse-related>
+			<reverse-relate>Smaug The Golden</reverse-related>
+			<reverse-relate>Grenzo Chaos Inciter</reverse-related>
+			<reverse-related>Grenzo Master of Crime</reverse-related>
+			<reverse-related>Techus Tombseeker</reverse-related>
+			<reverse-related>Lehan of the Eternal Crew</reverse-related>
+			<reverse-related>Persis Master Merchant</reverse-related>
+			<reverse-related>Galia Guiltsower</reverse-related>
+			<reverse-related>Sigis Freelance Paladin</reverse-related>
+			<reverse-related>Chelon Map Merchant</reverse-related>
+			<reverse-related>Grek Earner of Heirlooms</reverse-related>
+			<reverse-related>Baret Sideshow Spotlight</reverse-related>
+			<reverse-related>Aliri Tactful Trader</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+  <card>
+            <name>Gremlin</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Gremlin</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://img.scryfall.com/cards/large/front/c/6/c6071fed-39c1-4f3b-a821-1611aedd8054.jpg">AER</set>
+            <reverse-related>Gremlin Infestation</reverse-related>
+            <reverse-related count="x">Release the Gremlins</reverse-related>
+			<reverse-related>The Æther-Hub Infiltrator</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+  <card>
+            <name>Clue</name>
+            <text>{2}, Sacrifice this artifact: Draw a card.</text>
+            <prop>
+                <type>Token Artifact — Clue</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://media.wizards.com/2018/c18/en_1LubZ0qmyk.png">C18</set>
+            <set picURL="https://media.wizards.com/2017/ust/en_qK2MGqzQbu.png">UST</set>
+            <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Pdlgntbr3f.png">SOI</set>
+            <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_y9rdQBkOEb.png">SOI</set>
+            <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_IhCXdxohl3.png">SOI</set>
+            <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_V2yqkDIY0I.png">SOI</set>
+            <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_hFK9CuGyR3.png">SOI</set>
+            <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_on2A5IZpXh.png">SOI</set>
+            <reverse-related>Bearer of Overwhelming Truths</reverse-related>
+            <reverse-related>Briarbridge Patrol</reverse-related>
+            <reverse-related>Bygone Bishop</reverse-related>
+            <reverse-related>Byway Courier</reverse-related>
+            <reverse-related>Confirm Suspicions</reverse-related>
+            <reverse-related>Confront the Unknown</reverse-related>
+            <reverse-related>Declaration in Stone</reverse-related>
+            <reverse-related>Drownyard Explorers</reverse-related>
+            <reverse-related>Expose Evil</reverse-related>
+            <reverse-related>Fleeting Memories</reverse-related>
+            <reverse-related>Gone Missing</reverse-related>
+            <reverse-related>Humble the Brute</reverse-related>
+            <reverse-related>Jace's Scrutiny</reverse-related>
+            <reverse-related>Magnifying Glass</reverse-related>
+            <reverse-related>Ongoing Investigation</reverse-related>
+            <reverse-related>Press for Answers</reverse-related>
+            <reverse-related>Root Out</reverse-related>
+            <reverse-related>Survive the Night</reverse-related>
+            <reverse-related>Tamiyo's Journal</reverse-related>
+            <reverse-related>Thraben Inspector</reverse-related>
+            <reverse-related>Tireless Tracker</reverse-related>
+            <reverse-related>Trail of Evidence</reverse-related>
+            <reverse-related>Ulvenwald Mysteries</reverse-related>
+            <reverse-related>Weirding Wood</reverse-related>
+			<reverse-related>Halana and Alena</reverse-related>
+			<reverse-related>Reban Zealous Sleuth</reverse-related>
+			<reverse-related>Kyla Keen Explorer</reverse-related>
+			<reverse-related>Rya Raised on Riddles</reverse-related>
+			<reverse-related>The Nephalia Duo</reverse-related>
+			<reverse-related>Vican Vexing Guardian</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+		<card>
+            <name>Vampire </name>
+            <text>Lifelink</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Vampire</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://img.scryfall.com/cards/large/front/0/d/0d6abdaa-7be5-48a1-acc9-b3cba4c10619.jpg">DKA</set>
+            <reverse-related>Sorin, Lord of Innistrad</reverse-related>
+			<reverse-related>Olivia Lord of Innistrad</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		<card>
+            <name>Dragon Spirit </name>
+            <text>Flying</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Dragon Spirit</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="Dragon Spirit.full.jpg">DKA</set>
+            <reverse-related>Dromoka Dragon-Khan</reverse-related>
+			
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		<card>
+		
+		<name>Manifest</name>
+            <text>(You can cover a face-down manifested creature with this reminder card.
+A manifested creature card can be turned face up any time for its mana cost. A face-down card can also be turned face up for its morph cost.)</text>
+            <prop>
+                <type>Creature</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/c19/en_8QvRWunBtH.png">C19</set>
+            <set picURL="https://media.wizards.com/2018/c18/en_4pAyT2EoSw.png">C18</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/e/9/e9f896d4-34b4-407d-be7e-bf7a69aaf811.jpg">FRF</set>
+            <reverse-related>Arashin War Beast</reverse-related>
+            <reverse-related>Arbiter of the Ideal</reverse-related>
+            <reverse-related>Cloudform</reverse-related>
+            <reverse-related>Ethereal Ambush</reverse-related>
+            <reverse-related>Fierce Invocation</reverse-related>
+            <reverse-related>Formless Nurturing</reverse-related>
+            <reverse-related>Ghastly Conscription</reverse-related>
+            <reverse-related>Jeskai Infiltrator</reverse-related>
+            <reverse-related>Lightform</reverse-related>
+            <reverse-related>Mastery of the Unseen</reverse-related>
+            <reverse-related>Qarsi High Priest</reverse-related>
+            <reverse-related>Rageform</reverse-related>
+            <reverse-related>Reality Shift</reverse-related>
+            <reverse-related>Soul Summons</reverse-related>
+            <reverse-related>Sultai Emissary</reverse-related>
+            <reverse-related>Temur War Shaman</reverse-related>
+            <reverse-related>Whisperwood Elemental</reverse-related>
+            <reverse-related>Wildcall</reverse-related>
+            <reverse-related>Write into Being</reverse-related>
+			<reverse-related>Ojutai Dragon-Khan</reverse-related>
+			<reverse-related>Hiru Who Hears Whispers</reverse-related>
+			<reverse-related>Lupis Veilpack Alpha</reverse-related>
+			<reverse-related>Sogap Seer of Ecosystems</reverse-related>
+			<reverse-related>Nelvaan Wispcaller</reverse-related>
+			<reverse-related>Arel Unseen Whisperer</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+  <card>
+            <name>Zombie Silumgar</name>
+            <text>Flying</text>
+            <prop>
+                <colors>UB</colors>
+                <type>Token Creature — Elder Dragon Zombie</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/5</pt>
+            </prop>
+            <set picURL="Silumgar.full.jpg">DFCN</set>
+            <reverse-related>Sidisi Khan Resurgent</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+            <name>Spirit</name>
+            <text>Flying</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/iko/en_GpagK8J7z4.png">C20</set>
+            <set picURL="https://media.wizards.com/2019/c19/en_vs01weRsuw.png">C19</set>
+            <set picURL="https://media.wizards.com/2019/m20/en_a5z4djZ5ky.png">M20</set>
+            <set picURL="https://media.wizards.com/2018/a25/en_MfLkYTjk6c.png">A25</set>
+            <set picURL="https://media.wizards.com/2017/ust/en_jOLUnmQ3sd.png">UST</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/5/b/5b2c2f3d-9489-4e7b-85e3-db1f2ee0f601.jpg">E01</set>
+            <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_OoBnRxjJID.png">MM3</set>
+            <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/a8Dcl06bW6_EN.png">C16</set>
+            <set picURL="https://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_uKWYrCTL44.png">CN2</set>
+            <set picURL="https://media.wizards.com/2016/adhfianalodifdj2_EMA/en_cxaUJXygwx.png">EMA</set>
+            <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_2dPK4cEymD.png">SOI</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/0/0/0000a54c-a511-4925-92dc-01b937f9afad.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/5/2/52e32ad7-d59e-4cd8-ab88-3c7c0c083357.jpg">FRF</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/6/6/66c51c7f-b2d2-4a8a-84c6-57382e06fe7b.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/7/0/7071930c-689a-44b9-b52d-45027fd14446.jpg">KTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/2/e/2e16c19f-ef44-4ebc-aa1d-f95646ae312b.jpg">MD1</set>
+            <set picURL="https://media.wizards.com/images/magic/daily/arcana/0003_MTGM15_TOK_EN%20copy.png">M15</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/5/9/595c4665-48e1-492e-9e62-a49ec443e161.jpg">CNS</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/5/9/59e79ba0-33c8-46c8-8694-8bf854345fe7.jpg">AVR</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/0/d/0dbede5b-8e61-4ed8-bccb-8b54f69cccee.jpg">ISD</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/4/b/4b9a934b-dbd2-4691-8c96-a2f25ca18db0.jpg">DDC</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/c/b/cba50f25-ad8c-4244-8dc1-f8656f4c8c0b.jpg">SHM</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/5/8/58be6a05-8021-4fca-8e9f-0ebb4769c635.jpg">DDK</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/1/4/14ef4815-3dfe-47b3-ad81-1506925280d3.jpg">PLS</set>
+            <reverse-related>Abzan Ascendancy</reverse-related>
+            <reverse-related>Afterlife</reverse-related>
+            <reverse-related>Avacyn's Collar</reverse-related>
+            <reverse-related count="3">Benevolent Offering</reverse-related>
+            <reverse-related>Bishop of Wings</reverse-related>
+            <reverse-related>Custodi Soulbinders</reverse-related>
+            <reverse-related>Dauntless Cathar</reverse-related>
+            <reverse-related>Doomed Traveler</reverse-related>
+            <reverse-related>Drogskol Cavalry</reverse-related>
+            <reverse-related>Elgaud Inquisitor</reverse-related>
+            <reverse-related>Emissary of the Sleepless</reverse-related>
+            <reverse-related>Field of Souls</reverse-related>
+            <reverse-related>Funeral Pyre</reverse-related>
+            <reverse-related>Gallows at Willow Hill</reverse-related>
+            <reverse-related count="2">Geist-Honored Monk</reverse-related>
+            <reverse-related count="x">Hallowed Spiritkeeper</reverse-related>
+            <reverse-related>Hanged Executioner</reverse-related>
+            <reverse-related>Haunted Dead</reverse-related>
+            <reverse-related count="2">Kirtar's Wrath</reverse-related>
+            <reverse-related>Kykar, Wind's Fury</reverse-related>
+            <reverse-related count="2">Lingering Souls</reverse-related>
+            <reverse-related>Luminous Angel</reverse-related>
+            <reverse-related count="x">March of Souls</reverse-related>
+            <reverse-related count="2">Mausoleum Guard</reverse-related>
+            <reverse-related count="2">Midnight Haunting</reverse-related>
+            <reverse-related>Moorland Haunt</reverse-related>
+            <reverse-related count="2">Nearheath Chaplain</reverse-related>
+            <reverse-related>Not Forgotten</reverse-related>
+            <reverse-related>Requiem Angel</reverse-related>
+            <reverse-related count="x">Rousing of Souls</reverse-related>
+            <reverse-related>Sanctifier of Souls</reverse-related>
+            <reverse-related>Sandsteppe Outcast</reverse-related>
+            <reverse-related>Seize the Soul</reverse-related>
+            <reverse-related>Slayer's Plate</reverse-related>
+            <reverse-related count="3">Spectral Procession</reverse-related>
+            <reverse-related count="2">Spectral Reserves</reverse-related>
+            <reverse-related>Spirit Bonds</reverse-related>
+            <reverse-related>Spirit Cairn</reverse-related>
+            <reverse-related>Teysa, Orzhov Scion</reverse-related>
+            <reverse-related>Thalia's Geistcaller</reverse-related>
+            <reverse-related>Transluminant</reverse-related>
+            <reverse-related count="3">Triplicate Spirits</reverse-related>
+            <reverse-related count="2">Twilight Drover</reverse-related>
+            <reverse-related count="2">Vessel of Ephemera</reverse-related>
+			<reverse-related>Ubrec King of the Beyond</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		<card>
+            <name>Bird</name>
+            <text>Flying</text>
+            <prop>
+                <colors>WU</colors>
+                <type>Token Creature — Bird</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cdn.staticneo.com/w/mtg/3/37/Bird2.jpg">DIS</set>
+            <reverse-related count="x">Dovescape</reverse-related>
+            <reverse-related>Pride of the Clouds</reverse-related>
+			<reverse-related>Osarae the Flowing Wind</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+            <name>Elemental</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Snow Creature — Elemental</type>
+                <maintype>Snow Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+           
+            <set picURL="/Fifus Elemental.full.jpg">DFCN</set>
+            <reverse-related>Fifus Festive Friend</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+            <name>Dwarf</name>
+            <prop>
+                <colors>R</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Dwarf</type>
+                <maintype>Creature</maintype>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_MTBE2eZjU3.png">ELD</set>
+            <reverse-related>Smaug The Golden</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+  <name>Friendly Phelddagrif</name>
+  <text>Flying, hexproof, trample
+  Whenever Friendly Phelddagrif attacks, each opponent creates a 3/3 green Hippo
+  creature token, gains 2 life, and draws a card.
+  Whenever Phelddagrif deals combat damage to a player, you may transform it.
+  </text>
+  <prop>
+    <layout>transform</layout>
+    <side>front</side>
+    <type>Legendary Creature - Phelddagrif</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>1GWU</manacost>
+    <cmc>4</cmc>
+    <colors>GWU</colors>
+    <coloridentity>GWU</coloridentity>
+    <pt>4/4</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="/Friendly Phelddagrif.full.jpg">DCFN</set>
+  <related>Hippo</related>
+   <related attach="attach">Fearsome Firgaddlehp</related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>Fearsome Firgaddlehp</name>
+  <text>Flying, first strike, deathtouch
+  Whenever Fearsome Firgaddlehp attacks, each opponent
+  sacrifices a creature, loses 2 life, and discards a card.
+  Whenever Firgaddlehp, deals combat damage to a player, you may transform it.
+  </text>
+  <prop>
+    <layout>transform</layout>
+    <side>back</side>
+    <type>Legendary Creature - Firgaddlehp</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost></manacost>
+    <cmc></cmc>
+    <colors>GWU</colors>
+    <coloridentity>GWU</coloridentity>
+    <pt>6/5</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="/Fearsome Firgaddlehp.full.jpg">DCFN</set>
+  <related attach="attach">Friendly Phelddagrif</related>
+   <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+            <name>Head</name>
+            
+            <prop>
+				
+                <type>Token Creature — Head</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="/Head.full.jpg">DCFN</set>
+            
+            
+            <reverse-related count="x">Moruul Khalni Druid</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+            <name>Construct</name>
+            <prop>
+                <type>Token Artifact Creature — Construct</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="/Epochras Construct.full.jpg">DCFN</set>
+            <reverse-related>Epochras Temporal Seer</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+            <name>Tentacle</name>
+            <text></text>
+            <prop>
+                <colors>U</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Tentacle</type>
+                <maintype>Creature</maintype>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_rNRCyFa2mF.png">THB</set>
+            <reverse-related>Ulus Poet of Depths</reverse-related>
+			<reverse-related>Oru the Beyonder</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+            <name>Bird </name>
+            <text>Flying</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Bird</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/iko/en_IrGXzUmI6s.png">C20</set>
+            <set picURL="https://media.wizards.com/2019/mh1/en_QJTb0Exxb5.png">MH1</set>
+            <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_2wXcJD92zt.png">MM3</set>
+            <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/xA26RzQIyY_EN.png">C16</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/c/8/c862470b-f273-4e01-945b-bf3697cd1359.jpg">BNG</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/a/b/abbb3c16-a7ef-4b83-b1a9-637a905229d7.jpg">ZEN</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/0/5/05b4dbe1-12ac-404f-a1fe-96e0b620533e.jpg">RTR</set>
+            <reverse-related>Akim, the Soaring Wind</reverse-related>
+            <reverse-related count="2">Battle Screech</reverse-related>
+            <reverse-related count="4">Beck // Call</reverse-related>
+            <reverse-related>Emeria Angel</reverse-related>
+            <reverse-related>Eyes in the Skies</reverse-related>
+            <reverse-related count="x">Jötun Owl Keeper</reverse-related>
+            <reverse-related count="4">Migratory Route</reverse-related>
+            <reverse-related count="2">Ornitharch</reverse-related>
+            <reverse-related>Scion of Vitu-Ghazi</reverse-related>
+            <reverse-related>Seller of Songbirds</reverse-related>
+			<reverse-related>Noctra the Lightwing</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		 <card>
+            <name>DCFN Germ</name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Germ</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/0</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/byg00olvZx_EN.png">C16</set>
+            <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_UF6tUBntoI.png">C15</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/4/4/4414f9fa-dfda-4714-9f87-cb5e8914b07a.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/e/e/eede5cf7-1c41-4523-ad27-9c232e1f2bb5.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/7/6/760dcba4-c0f1-4843-9c39-393c629aae8e.jpg">MBS</set>
+            <reverse-related attach="attach">Batterskull</reverse-related>
+            <reverse-related attach="attach">Bonehoard</reverse-related>
+            <reverse-related attach="attach">Flayer Husk</reverse-related>
+            <reverse-related>Grip of Phyresis</reverse-related>
+            <reverse-related attach="attach">Lashwrithe</reverse-related>
+            <reverse-related attach="attach">Mortarpod</reverse-related>
+            <reverse-related attach="attach">Necropouncer</reverse-related>
+            <reverse-related attach="attach">Scytheclaw</reverse-related>
+            <reverse-related attach="attach">Sickleslicer</reverse-related>
+            <reverse-related attach="attach">Skinwing</reverse-related>
+            <reverse-related attach="attach">Strandwalker</reverse-related>
+			<reverse-related>Zerec the Porcelain Edge</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+            <name>DCFN Citizen</name>
+            <text>This creature is all colors.</text>
+            <prop>
+                <colors>WUBRG</colors>
+                <type>Token Creature — Citizen</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/war/en_LdDdsguWQD.png">WAR</set>
+            <reverse-related>Myla Guildpact Poet</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+            <name>DCFN Spirit</name>
+            <prop>
+                <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2018/a25/en_Zm3GZBOnwD.png">A25</set>
+            <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/bQqBAcQB03_EN.png">C16</set>
+            <set picURL="https://media.wizards.com/2016/adhfianalodifdj2_EMA/en_qQaHPqyjyC.png">EMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/4/6/46b60d95-b9bc-40f8-b986-bfa8e3eb74f3.jpg">CHK</set>
+            <reverse-related>Baku Altar</reverse-related>
+            <reverse-related count="x">Dripping-Tongue Zubera</reverse-related>
+            <reverse-related>Forbidden Orchard</reverse-related>
+            <reverse-related>Gods' Eye, Gate to the Reikai</reverse-related>
+            <reverse-related count="x">Honden of Life's Web</reverse-related>
+            <reverse-related count="4">Promise of Bunrei</reverse-related>
+            <reverse-related>Sekki, Seasons' Guide</reverse-related>
+            <reverse-related>Spiritual Visit</reverse-related>
+			<reverse-related>Wanos Forsakens Fury</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+            <name>Goat</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Goat</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_WOFcxR3XVQ.png">THB</set>
+            <set picURL="https://media.wizards.com/2019/eld/en_RXskaZkva9.png">ELD</set>
+            <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/2QtBY6BF4T_EN.png">C16</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/5/b/5ba0e1c8-bb8e-4be4-8177-b2175e0c33fb.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/6/4/64e90524-bad8-4d24-85be-9402401e7b42.jpg">M14</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/f/a/fa0f1de9-464c-4f12-bd1d-a4a5b88fe803.jpg">M13</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/9/0/90f67615-8a09-4ab9-9927-899a15e72c03.jpg">EVE</set>
+            <reverse-related count="3">Clackbridge Troll</reverse-related>
+            <reverse-related>Discordant Piper</reverse-related>
+            <reverse-related count="3" exclude="exclude">Goldmeadow</reverse-related>
+            <reverse-related>Goldmeadow</reverse-related>
+            <reverse-related>Springjack Pasture</reverse-related>
+            <reverse-related count="x">Springjack Shepherd</reverse-related>
+            <reverse-related>Trading Post</reverse-related>
+            <reverse-related>Woe Strider</reverse-related>
+			<reverse-related count="2">Rahus Pasture Protector</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		<card>
+		<name>Chancellor Palpatine</name>
+  <text>Hexproof
+  When Chancellor Palpatine enters the battlefield, you become the monarch.
+  At the beginning of your end step,
+  if you're the monarch, and it's your third end step since you last became the monarch,
+  transform chancellor palpatine.
+  </text>
+  <prop>
+    <layout>transform</layout>
+    <side>front</side>
+    <type>Legendary Creature - Human Noble</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>1URW</manacost>
+    <cmc>4</cmc>
+    <colors>URW</colors>
+    <coloridentity>URW</coloridentity>
+    <pt>3/3</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="/Chancellor Palpatine.full.jpg">DCFN</set>
+  <related></related>
+   <related attach="attach">Emperor Palpatine</related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>Emperor Palpatine</name>
+  <text>When this creature transforms into Emperor Palpatine,
+  gain control of target creature for as long as you control Emperor Palpatine.
+  Whenever a creature deals damage to you, destroy it.
+  </text>
+  <prop>
+    <layout>transform</layout>
+    <side>back</side>
+    <type>Legendary Creature - Human Warlock</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost></manacost>
+    <cmc></cmc>
+    <colors>B</colors>
+    <coloridentity>B</coloridentity>
+    <pt>6/6</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="/Emperor Palpatine.full.jpg">DCFN</set>
+  <related attach="attach">Chancellor Palpatine</related>
+   <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+            <name>Insect  </name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Insect</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2018/a25/en_pIc2s1fJ7N.png">A25</set>
+            <set picURL="https://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_FFbXRwKrvA.png">CN2</set>
+            <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_DJi1itoTAo.png">SOI</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/5/9/599b5074-86a5-4666-8cf4-3deb83c09ba0.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/6/7/67563770-a392-4f69-b93b-6029da639993.jpg">M10</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/a/a/aa47df37-f246-4f80-a944-008cdf347dad.jpg">ONS</set>
+            <reverse-related>Ant Queen</reverse-related>
+            <reverse-related count="x">Beacon of Creation</reverse-related>
+            <reverse-related>Broodhatch Nantuko</reverse-related>
+            <reverse-related>Crawling Sensation</reverse-related>
+            <reverse-related>Dragonlair Spider</reverse-related>
+            <reverse-related>Infested Roothold</reverse-related>
+            <reverse-related count="2">It of the Horrid Swarm</reverse-related>
+            <reverse-related>Living Hive</reverse-related>
+            <reverse-related count="5">One Dozen Eyes</reverse-related>
+            <reverse-related>Saber Ants</reverse-related>
+            <reverse-related count="4">Symbiotic Beast</reverse-related>
+            <reverse-related count="2">Symbiotic Elf</reverse-related>
+            <reverse-related count="7">Symbiotic Wurm</reverse-related>
+            <reverse-related>Vitality Charm</reverse-related>
+            <reverse-related>Wirewood Hivemaster</reverse-related>
+			<reverse-related>Pluera Heart of the Hive</reverse-related>
+			<reverse-related>Pleurast Hive Tyrant</reverse-related>
+			<reverse-related>Gorast the Hivemother</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+            <name>Illusion </name>
+            <text>Flying</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Illusion</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="/Ari Illusion.full.jpg">DCFN</set>
+            
+            
+            <reverse-related>Ari the Dreamsower</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+		<name>Srin the Withering Blaze</name>
+  <text>You can't play lands.
+  Whenever Srin attacks, sacrificce a land
+  and you draw a card.
+  When Srin dies, return it to the battlefield transformed under your
+  control at the beginning of the next end step.
+  </text>
+  <prop>
+    <layout>transform</layout>
+    <side>front</side>
+    <type>Legendary Creature - Elemental</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>4R</manacost>
+    <cmc>5</cmc>
+    <colors>R</colors>
+    <coloridentity>R</coloridentity>
+    <pt>5/1</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="/Srin the Withering Blaze.full.jpg">DCFN</set>
+  <related></related>
+   <related attach="attach">Srin the Flourishing Growth</related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>Srin the Flourishing Growth</name>
+  <text>Haste
+  {T}:You may put a land card from your hand or graveyard onto the battlefield tapped.
+  Then, if you control seven or more lands, transform Srin the Flourishing Growth.
+  </text>
+  <prop>
+    <layout>transform</layout>
+    <side>back</side>
+    <type>Legendary Creature - Elemental</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost></manacost>
+    <cmc></cmc>
+    <colors>G</colors>
+    <coloridentity>G</coloridentity>
+    <pt>1/5</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="/Srin the Flourishing Growth.full.jpg">DCFN</set>
+  <related attach="attach">Srin the Withering Blaze</related>
+   <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+            <name>Human</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Human</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/iko/en_kkMVLXPjkL.png">C20</set>
+            <set picURL="https://media.wizards.com/2019/eld/en_OnoAHjNCtA.png">ELD</set>
+            <set picURL="https://media.wizards.com/2019/c19/en_0GA7rbmHav.png">C19</set>
+            <set picURL="https://media.wizards.com/2018/rna/en_IeLQUTgkMy.png">RNA</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/8/8/8894949b-f190-461e-996a-cf2b39f08a5d.jpg">AVR</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/3/a/3a98c51f-c55c-4bd9-853b-65b8bad5a29f.jpg">FNM</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/b/d/bd5cd362-34f9-445f-85e1-9f6694f0f90a.jpg">DKA</set>
+            <reverse-related>Castle Ardenvale</reverse-related>
+            <reverse-related>Commander's Authority</reverse-related>
+            <reverse-related count="2">Gather the Townsfolk</reverse-related>
+            <reverse-related count="5" exclude="exclude">Gather the Townsfolk</reverse-related>
+            <reverse-related count="2">Harmonious Archon</reverse-related>
+            <reverse-related>Hero of Precinct One</reverse-related>
+            <reverse-related count="5">Increasing Devotion</reverse-related>
+            <reverse-related count="10" exclude="exclude">Increasing Devotion</reverse-related>
+            <reverse-related>Inquisitive Puppet</reverse-related>
+            <reverse-related>Lovestruck Beast // Heart's Desire</reverse-related>
+            <reverse-related count="2">Oakhame Ranger // Bring Back</reverse-related>
+            <reverse-related count="2">Rally for the Throne</reverse-related>
+            <reverse-related>Thraben Doomsayer</reverse-related>
+            <reverse-related>Voice of the Provinces</reverse-related>
+            <reverse-related>Watchful Giant</reverse-related>
+            <reverse-related>Worthy Knight</reverse-related>
+			<reverse-related>The Cult of the Deific</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		 <card>
+            <name>Squirrel</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Squirrel</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_ekxScmW9bT.png">MH1</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/3/a/3af9733f-192f-4028-8ad6-aa1187dd15e7.jpg">CNS</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/a/f/af7c2def-d20d-4670-8950-7042e9380844.jpg">ODY</set>
+            <reverse-related>Acorn Catapult</reverse-related>
+            <reverse-related count="2">Acorn Harvest</reverse-related>
+            <reverse-related>Chatter of the Squirrel</reverse-related>
+            <reverse-related count="4">Deep Forest Hermit</reverse-related>
+            <reverse-related count="4">Deranged Hermit</reverse-related>
+            <reverse-related>Druid's Call</reverse-related>
+            <reverse-related>Liege of the Hollows</reverse-related>
+            <reverse-related count="x">Nantuko Shrine</reverse-related>
+            <reverse-related>Nut Collector</reverse-related>
+            <reverse-related>Squirrel Nest</reverse-related>
+            <reverse-related count="2">Squirrel Wrangler</reverse-related>
+            <reverse-related>Chittering Doom</reverse-related>
+            <reverse-related>Earl of Squirrel</reverse-related>
+            <reverse-related>Squirrel Dealer</reverse-related>
+			<reverse-related>Hyde Hectic Harvester</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+		<name>Acorn</name>
+		<text>{2}{G}{G}{G}, {T}, Sacrifice this artifact:
+		Squirrels you control get +3/+3 and gain trample until end of turn.
+		<prop>
+			<colors>G</colors>
+			<type>Artifact Token- Acorn</type>
+			<maintype>Artifact</maintype>
+			<cmc>0</cmc>
+		</prop>
+		<set picURL="/Acorn.full.jpg">DCFN</set>	
+		<reverse-related>Hyde Hectic Harvester</reverse-related>
+		<token>1</token>
+		<tablerow>2</tablerow>
+		</card>
+		
+		<card>
+            <name>Hound</name>
+			<text>When this creature deals combat damage to a player, sacrifice it
+			and return a card at random from your graveyard to your hand.
+            <prop>
+                <colors>RB</colors>
+                <type>Token Creature — Hound</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="/Antroz Hound.full.jpg">DCFN</set>
+            <reverse-related>Antroz the Goretracker</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		 <card>
+            <name>Wizard</name>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Wizard</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/war/en_kBbazARQoi.png">WAR</set>
+            <reverse-related count="X">Caris Excessive Caster</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+		
+		<card>
+		<name>Lyla Lupine Alchemist</name>
+  <text>Hexproof
+  Whenever a Werewolf you control transforms,
+  exile the top card of your library with a howl counter on it.
+  Then, if you own three or more cards in exile with howl counters on them,
+  you may transform Lyla.
+  </text>
+  <prop>
+    <layout>transform</layout>
+    <side>front</side>
+    <type>Legendary Creature - Human Shaman</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>RG</manacost>
+    <cmc>2</cmc>
+    <colors>RG</colors>
+    <coloridentity>RG</coloridentity>
+    <pt>2/2</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="/Lyla Lupine Alchemist.full.jpg">DCFN</set>
+  <related></related>
+   <related attach="attach">The Eternal Lycanthrope</related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>The Eternal Lycanthrope</name>
+  <text>Wolves and other Werewolves you control get +1/+1.
+  You may play cards you own in exile with Howl conters on them.
+  </text>
+  <prop>
+    <layout>transform</layout>
+    <side>back</side>
+    <type>Legendary Creature - Werewolf Spirit</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost></manacost>
+    <cmc></cmc>
+    <colors>RG</colors>
+    <coloridentity>RG</coloridentity>
+    <pt>4/4</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="/The Eternal Lycanthrope.full.jpg">DCFN</set>
+  <related attach="attach">Lyla Lupine Alchemist</related>
+   <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+            <name>Monkey</name>
+            <set picURL="/Persis Monkey.full.jpg">DCFN</set>
+            <prop>
+                <colors>R</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Monkey</type>
+                <maintype>Creature</maintype>
+                <pt>2/1</pt>
+            </prop>
+            <tablerow>2</tablerow>
+            
+            <token>1</token>
+            <reverse-related>Persis Master Merchant</reverse-related>
+   </card>
+		
+		<card>
+            <name>The Altar</name>
+			<text>Whenever an opponent draws two or more cards, draw a card.</text>
+            <set picURL="/The Altar.full.jpg">DCFN</set>
+            <prop>
+                <colors></colors>
+                <cmc>0</cmc>
+                <type>Token Legendary Artifact</type>
+                <maintype>Legendary Artifact</maintype>
+                <pt></pt>
+            </prop>
+            <tablerow>1</tablerow>
+            
+            <token>1</token>
+            <reverse-related>Almia Syndicates Servent</reverse-related>
+        </card>
+		
+<card>
+  <name>Siblis Redemption Seeker</name>
+  <text>Whenever a nontoken creature you control with
+  converted mana cost 3 or less dies,
+  you may return a creature card with lesser converted mana cost
+  from your graveyard to the battlefield.
+  If you don't, create a 1/1 white spirit creature token.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Insect Knight</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>2WB</manacost>
+    <cmc>4</cmc>
+    <colors>WB</colors>
+    <coloridentity>WB</coloridentity>
+    <pt>3/3</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/IOzd0RR.jpg">DCFN</set>
+  <related></related>
+  <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+            <name>Spirit</name>
+            <set picURL="/Siblis Spirit.full.jpg">DCFN</set>
+            <prop>
+                <colors>W</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
+                <pt>1/1</pt>
+            </prop>
+            <tablerow>2</tablerow>
+            
+            <token>1</token>
+            <reverse-related>Siblis Redemption Seeker</reverse-related>
+        </card>
+		
+		<card>
+  <name>Mayela The Drifting Petal</name>
+  <text>Flying, Vigilance
+  {T}: Each player adds one mana of any color.
+  The next spell you cast this turn can be cast as though it had assist.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Elemental</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>1WG</manacost>
+    <cmc>3</cmc>
+    <colors>WG</colors>
+    <coloridentity>WG</coloridentity>
+    <pt>3/3</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/DDLejvF.jpg">DCFN</set>
+  <related></related>
+   <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>Hecra Harvest Witch</name>
+  <text>Whenever you create one or more tokens, mill that many cards.
+  {T}, Sacrifice three tokens: You may play up to three permanent cards
+  from your graveyard this turn.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Human Warlock</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>WBG</manacost>
+    <cmc>3</cmc>
+    <colors>WBG</colors>
+    <coloridentity>WBG</coloridentity>
+    <pt>3/3</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/22pFHE0.jpg">DCFN</set>
+  <related></related>
+   <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  
+  <card>
+  <name>Ava Master Illusionist</name>
+  <text>Illusion spells you cast cost {1} less to cast and you may
+  cast them as though they have flash.
+  Whenever an Illusion enters the battlefield under your control,
+  you may have it become a copy of target creature with
+  lesser converted mana cost until end of turn.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Human Rogue</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>2UU</manacost>
+    <cmc>4</cmc>
+    <colors>U</colors>
+    <coloridentity>U</coloridentity>
+    <pt>3/3</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/88rgmva.jpg">DCFN</set>
+  <related></related>
+   <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  <card>
+  <name>Herman Beachcomber</name>
+  <text>At the beginning of your upkeep, mill a card.
+  You may cast artifact spells from your graveyard.
+  As an additional cost to cast spells this way, return an artifact you
+  control to your hand.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Mutant Nomad</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>1WU</manacost>
+    <cmc>3</cmc>
+    <colors>UW</colors>
+    <coloridentity>UW</coloridentity>
+    <pt>2/3</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/s74BVhL.jpg">DCFN</set>
+  <related></related>
+   <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>Torvus Inspired Crafter</name>
+  <text>Whenever you draw your second card each turn,
+  add {G}{U}{R}.
+  Spend this mana only to activate abilities.
+  {G}{U}{R}: Until end of turn, target artifact or land
+  you control becomes a 4/4 Elemental with haste and 
+  "whenever this creature deals combat damage to a player
+  this turn, draw a card".
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Elemental</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>1GUR</manacost>
+    <cmc>4</cmc>
+    <colors>GUR</colors>
+    <coloridentity>GUR</coloridentity>
+    <pt>4/4</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/aduZPpO.jpg">DCFN</set>
+  <related></related>
+   <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>Rena Master of Mockery</name>
+  <text>Whenever Rena attacks, tap target creature defending player controls.
+  Whenever a spell or ability you control causes a creature
+  to become tapped, goad that creature. You may untap it.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Human</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>URW</manacost>
+    <cmc>3</cmc>
+    <colors>URW</colors>
+    <coloridentity>URW</coloridentity>
+    <pt>2/4</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/s7WEUfh.jpg">DCFN</set>
+  <related></related>
+   <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>Arel Maurer Bloodmage</name>
+  <text>Flying, Lifelink
+  Instant and sorcery spells you control have lifelink.
+  {T}, Pay 7 live: Copy target instant or sorcery spell that targets an opponent.
+  You may choose new targets for the copy.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Vampire Wizard</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>2BR</manacost>
+    <cmc>4</cmc>
+    <colors>2BR</colors>
+    <coloridentity>2BR</coloridentity>
+    <pt>3/2</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/KW48rIv.jpg">DCFN</set>
+  <related></related>
+   <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+   </cards>
+</cockatrice_carddatabase>

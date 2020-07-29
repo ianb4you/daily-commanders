@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+	<set>
+	<name>DCFN721</name>
+	<longname>Daily Commanders Flips New721</longname>
+	<settype>Custom</settype>
+	<releasedate>2020-06-11</releasedate>
+	</set>
+  ...
+  </sets>
+  <cards>
+  
+  
+  <card>
+  <name>Merum Memory Keeper</name>
+  <text>Flying
+  Whenever you draw your second card each turn, choose target card
+  in your graveyard.
+  You may cast that card this turn.
+  If an instant or sorcery spell cast this way would be put
+  into your graveyard this turn, exile it instead.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Vampire Sphinx</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>3UB</manacost>
+    <cmc>5</cmc>
+    <colors>UB</colors>
+    <coloridentity>UB</coloridentity>
+    <pt>3/3</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/wXW9DWi.jpg">DCFN721</set>
+  <related></related>
+  <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>Thelae, the Honorwidow</name>
+  <text>Reach
+  Whenever a 1/1 creature you control attacks, it gets +0/+2
+  until end of turn.
+  Whenever a creature you control deals exactly 1 combat damage to a player,
+  draw a card and you lose 1 life.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Spider</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>1WBG</manacost>
+    <cmc>4</cmc>
+    <colors>WBG</colors>
+    <coloridentity>WBG</coloridentity>
+    <pt>1/5</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/xDTW1c0.jpg">DCFN721</set>
+  <related></related>
+  <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>Darus of the Bestiary</name>
+  <text>{T}: Add {R},{G}, or {W}. Spend this mana only to cast creature spells.
+  If a permanent entering the battlefield causes a triggered ability
+  of a Beast you control to trigger,
+  that ability triggers an additional time.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Human Scout</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>1G</manacost>
+    <cmc>2</cmc>
+    <colors>WGR</colors>
+    <coloridentity>WGR</coloridentity>
+    <pt>2/2</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/h3GvngO.jpg">DCFN721</set>
+  <related></related>
+  <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>Tobias Prism Mage</name>
+  <text>Protection from multicolored.
+  Whenever you cast another multicolored spell,
+  you may exile target card that's fewer colors from your graveyard.
+  Until the end of your next turn, you may cast that card.
+  If an instant or sorcery spell cast this way would be put into your graveyard,
+  exile it instead.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Human Wizard</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>WUBRG</manacost>
+    <cmc>5</cmc>
+    <colors>WUBRG</colors>
+    <coloridentity>WUBRG</coloridentity>
+    <pt>4/4</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/XrKERCg.jpg">DCFN721</set>
+  <related></related>
+  <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+
+
+<card>
+  <name>Aminatou Mercurial Child</name>
+  <text>Hexproof
+  {T}: Scry 1, then Fateseal 1. Exile Aminatou, Mercurial child
+  then return her to the battlefield transformed under her owner's control.
+  </text>
+  <prop>
+    <layout>transform</layout>
+    <side>front</side>
+    <type>Legendary Creature - Human</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>2U</manacost>
+    <cmc>3</cmc>
+    <colors>U</colors>
+    <coloridentity>WUB</coloridentity>
+    <pt>1/3</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="/Aminatou Mercurial Child.full.jpg">DCFN721</set>
+  <related attach="attach">Aminatou of Infinite Fates</related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>Aminatou of Infinite Fates</name>
+  <text>[+2]: For each player, exile the top or the bottom card of their library.
+  [-3]: Put target nonland permanent on the top or bottom of its owners library.
+  [-3]: You may cast cards exiled with Aminatou this turn and
+  spend mana as though it were mana of any type to cast them.
+  </text>
+  <prop>
+    <layout>transform</layout>
+    <side>back</side>
+    <type>Legendary Planeswalker - Aminatou</type>
+    <maintype>Legendary Planeswalker</maintype>
+    <manacost></manacost>
+    <cmc></cmc>
+    <colors>WB</colors>
+    <coloridentity>WUB</coloridentity>
+    <pt></pt>
+    <loyalty>4</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="/Aminatou of Infinite Fates.full.jpg">DCFN721</set>
+  <related attach="attach">Aminatou Mercurial Child</related>
+  <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>1</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>Nomi Renegade Roilmage</name>
+  <text>Abilities that aren't mana abilities cost {2} less to activate.
+  This effect can't reduce the mana in that cost to less than
+  one mana.
+  Whenever a land you control becomes a creature,
+  out your choice of a vigilance counter, a menace counter,
+  or a +1/+1 counter on it.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Human Shaman</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>GUR</manacost>
+    <cmc>3</cmc>
+    <colors>GUR</colors>
+    <coloridentity>GUR</coloridentity>
+    <pt>3/3</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/k1PvkH4.jpg">DCFN721</set>
+  <related></related>
+  <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>Morbuzak, Carnagesprout</name>
+  <text>Defender
+  {1}, Sacrifice another creature: Until end of turn, Morbuzak can attack as
+  though it didn't have defender.
+  {T}: Discard your hand. Until end of turn, whenever you sacrifice a permanent,
+  put a +1/+1 counter on Morbuzak and draw a card.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Plant</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>BRG</manacost>
+    <cmc>3</cmc>
+    <colors>BRG</colors>
+    <coloridentity>BRG</coloridentity>
+    <pt>1/1</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/cWvfKcR.jpg">DCFN721</set>
+  <related></related>
+  <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  </cards>
+</cockatrice_carddatabase>

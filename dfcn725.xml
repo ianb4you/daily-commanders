@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+	<set>
+	<name>DCFN725</name>
+	<longname>Daily Commanders Flips New725</longname>
+	<settype>Custom</settype>
+	<releasedate>2020-06-11</releasedate>
+	</set>
+  ...
+  </sets>
+  <cards>
+  
+  
+  <card>
+  <name>Tyris Migratory Wanderer</name>
+  <text>Flying, haste
+  Whenever Tyris, Migratory Wanderer attacks,
+  you may discard two nonland cards.
+  If you do, whenever a land enters the battlefield
+  under your control this turn,
+  draw a card and create a 2/2 blue Drake creature token with flying.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Drake</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>1GUR</manacost>
+    <cmc>4</cmc>
+    <colors>GUR</colors>
+    <coloridentity>GUR</coloridentity>
+    <pt>3/3</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/gl8lemE.jpg">DCFN725</set>
+  <related>Drake</related>
+  <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>Coatli Territorial Tyrant</name>
+  <text>Whenever another creature enters the battlefield under your control,
+  Coatli, Territorial Tyrant deals 2 damage to it.
+  During each of your turns, you may cast a creature spell from your graveyard.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Dinosaur</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>1BRG</manacost>
+    <cmc>4</cmc>
+    <colors>BRG</colors>
+    <coloridentity>BRG</coloridentity>
+    <pt>4/5</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/uF8GQ8m.jpg">DCFN725</set>
+  <related></related>
+  <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>Waru and Din Picnic Raiders</name>
+  <text>Menace
+  Whenever Waru and Din, Picnic raiders deals combat damage to a player,
+  create a food token.
+  Whenever you sacrifice a food, you may pay 2 life.
+  If you do, create a 1/1 black Rat creature token.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Elemental Rat</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>BG</manacost>
+    <cmc>2</cmc>
+    <colors>BG</colors>
+    <coloridentity>BG</coloridentity>
+    <pt>2/2</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/V6wiRZz.jpg">DCFN725</set>
+  <related>Rat</related>
+  <related>Food</related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+  <card>
+  <name>Vican, Erratic Enigma</name>
+  <text>Flying, MenaceAs long as you've drawn two or more cards
+  this turn, each nonland card you own that isn't on the battlefield
+  has madness.
+  The madness cost is equal to its mana cost.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Sphinx</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>1UBR</manacost>
+    <cmc>4</cmc>
+    <colors>UBR</colors>
+    <coloridentity>UBR</coloridentity>
+    <pt>3/3</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/YGmdQEF.jpg">DCFN725</set>
+  <related></related>
+  <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+
+
+  
+  <card>
+  <name>Gosaku Lead Infiltrator</name>
+  <text>Commander Ninjutsu {U}{B}
+  Whenever Gosaku, Lead Infiltrator or another Ninja
+  enters the battlefield under your control,
+  target creature gains
+  "Whenever this creature deals combat damage to a player, 
+  draw a card" until end of turn.
+  </text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature - Cat Ninja</type>
+    <maintype>Legendary Creature</maintype>
+    <manacost>2UB</manacost>
+    <cmc>4</cmc>
+    <colors>UB</colors>
+    <coloridentity>UB</coloridentity>
+    <pt>3/3</pt>
+    <loyalty>0</loyalty>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set picurl="https://i.imgur.com/YsY695t.jpg">DCFN725</set>
+  <related></related>
+  <related></related>
+  <reverse-related></reverse-related>
+
+  <tablerow>2</tablerow>
+  
+  </card>
+  
+ 
+  
+  </cards>
+</cockatrice_carddatabase>
